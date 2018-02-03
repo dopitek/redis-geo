@@ -4,3 +4,8 @@
 
 /obj/Docker
 /poc/obj
+/src/poc/bin/Debug/netcoreapp2.0
+/src/poc/obj
+/.vs
+/src/.vs/poc/v15
+/src/obj
